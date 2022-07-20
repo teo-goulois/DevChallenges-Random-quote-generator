@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://dev-challenges-random-quote-generator.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/ha1t5Y1ArXV0VfWXnLyI">
       Solution
     </a>
     <span> | </span>
@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](./Capture.PNG)
 
 
 ### Built With
@@ -63,7 +63,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/teo-goulois/DevChallenges-Random-quote-generator
 
 # Install dependencies
 $ npm install
@@ -83,4 +83,4 @@ $ npm start
 ## Contact
 
 - Website [teo-goulois.com](https://teogoulois-website.vercel.app/)
-- GitHub [@teo-goulois](https://{github.com/teo-goulois})
+- GitHub [@teo-goulois](https://github.com/teo-goulois)
